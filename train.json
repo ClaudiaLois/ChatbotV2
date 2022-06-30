@@ -1,0 +1,14 @@
+{"intents":[
+{"tag": "greeting",
+"training_phrases": ["hello","hlo","hii","heyy", "hi", "hey", "hi there", "yo","good morning","good afternoon", "good evening"],
+"responses": ["How can I help you today","How may I assist you today?","Whats up?, How may I help you"],
+"in_context": "",
+"out_context": "",
+"action": ""},    
+{"tag": "bye",
+"training_phrases": ["thank you","okay","ok","bye", "good bye", "thank you", "thanks", "bye bye", "bye take care","byee","nice talking to you"],
+"responses": ["Bye! Happy to help you","Bye, Have a good day!","Have a nice day"],
+"in_context": "",
+"out_context": "bye",
+"action": ""}
+]}
